@@ -111,7 +111,7 @@ d = ['vdszv', 'dfgzdgv', 'faergagrfa'] # this is the list
 e = {'vdszv', 'dfgzdgv', 'faergagrfa'} # this is the set
 f = ('vdszv', 'dfgzdgv', 'faergagrfa') # this is the tuple
 
-# now its time for random nuber in pyto 
+# now its time for random number in python
 # the python do not have the random function but python uses the random module 
 # which we have to import like below in this we can type the range in the given parenhesis
 # the random method will only work when the random command is given under the import random command
