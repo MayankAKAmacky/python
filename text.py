@@ -368,6 +368,7 @@ elif move == 'scissors' :
         print('Tie!')
 
 # now its time for faulty calcultor
+# this is the faulty calculator which performs the correct calculation only 25 times in 100 tries 
 import random
 firstNumber = int(input('you first nuber please:'))
 secondNumber = int(input('your second number please:'))
